@@ -42,7 +42,7 @@ No data folder is needed: the dataset ships with scikit-learn.
 
 **Option 2: locally**
 ```bash
-git clone https://github.com/<your-username>/qml-iris-classification.git
+git clone https://github.com/QuietCodinghs/qml-iris-classification.git
 cd qml-iris-classification
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
